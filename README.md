@@ -8,7 +8,7 @@
 - Unfortunately, it's long time not to see the update of jOrgChart. on the other hand, I got some interesting ideas to add, so I choose to create a new repo.
 - Font Awesome provides us with administration icon, second level menu icon and loading spinner.
 
-## Features
+## Feature
 - Supports both local data and remote data (JSON).
 - Smooth expand/collapse effects based on CSS3 transitions.
 - Align the chart in 4 orientations.
